@@ -1,0 +1,42 @@
+﻿{
+    "id":  "fd88b9bc-97d5-4fcb-a412-66293cf2d48d",
+    "name":  "BD-FullAppWithTests",
+    "publisher":  "Default publisher",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "platform":  "1.0.0.0",
+    "application":  "20.0.0.0",
+    "runtime":  "9.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  50200,
+                         "to":  50249
+                     }
+                 ],
+    "features":  [
+                     "TranslationFile",
+                     "NoImplicitWith"
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}
